@@ -1,0 +1,23 @@
+{
+  "themes": {
+    "professeurs": {
+      "questions": {
+        "matière": "Le professeur Dupont enseigne les mathématiques.",
+        "horaires": "Monsieur Dupont est disponible le lundi et mercredi matin.",
+        "coordonnées": "Vous pouvez contacter Monsieur Dupont à dupont@u-pec.fr."
+      }
+    },
+    "bibliothèque": {
+      "questions": {
+        "horaires": "La bibliothèque est ouverte de 9h à 20h.",
+        "emplacement": "Elle se trouve au bâtiment B, 2ème étage."
+      }
+    },
+    "examens": {
+      "questions": {
+        "dates": "Les examens commencent le 12 juin.",
+        "inscriptions": "Les inscriptions se font en ligne sur l’ENT."
+      }
+    }
+  }
+}
